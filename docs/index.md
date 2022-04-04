@@ -1,10 +1,7 @@
-# Bienvenido a la FCyT IDE
+# Bienvenido al Centro Regional de Geomática
 
 
 ## Introducción
-
-
-## Porque una IDE?
 
 
 ## Quienes Somos
