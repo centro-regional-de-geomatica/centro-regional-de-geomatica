@@ -1,11 +1,11 @@
-site_name: Infraestructura de Datos Espaciales FCyT UADER
-site_description: Community Datasets in Google Earth Engine
+site_name: Ceregeo FCyT UADER
+site_description: Ceregeo FCyT UADER
 site_author: Fernando Tentor
 site_url: https://github.com/FernandoTentor
 
 # Repository
-repo_name: IDE-FCyT
-repo_url: https://github.com/IDE-FCyT/IDE-FCyT
+repo_name: centro-regional-de-geomatica
+repo_url: https://github.com/centro-regional-de-geomatica/centro-regional-de-geomatica
 
 # Copyright
 copyright: 'Copyright &copy; 2021 - 2022 Fernando Tentor'
